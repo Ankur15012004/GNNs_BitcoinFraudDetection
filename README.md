@@ -47,7 +47,7 @@ We implemented two GNN architectures for this task:
 ### Visualizations
 
 #### 2. t-SNE Visualization of Node Embeddings
-![t-SNE Visualization](results\t-SNE.png)
+![t-SNE Visualization](results/t-SNE.png)
 
 #### 3. Graph Structure Visualization
 ![Graph Visualization](results/graph_visual.png)
