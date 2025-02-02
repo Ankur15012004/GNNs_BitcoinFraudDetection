@@ -1,0 +1,20 @@
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Ignore dataset files (if you want to share instructions instead)
+data/elliptic/*
+
+# Ignore model checkpoints and temporary files
+*.pth
+*.ckpt
+*.log
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints, if any
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
